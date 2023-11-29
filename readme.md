@@ -1,3 +1,6 @@
+## postman collection link
+    https://www.postman.com/orbital-module-geologist-49437711/workspace/public-workspace/collection/25071677-a30a7b7b-85ef-4089-91a9-2c46f5f1e506
+
 ## how to run
     - make sure to have a mysql process up and running
     - npm install (install required packages)
