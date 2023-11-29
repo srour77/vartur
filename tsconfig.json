@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      // your compiler options...
+    },
+    "exclude": [
+      "node_modules", // Exclude the node_modules directory
+      "./utils/**/*", // Exclude a specific file
+      "./middlewares/try-upload", // Exclude a specific file
+      "path/to/ignored-directory/**/*" // Exclude all files in a specific directory
+    ]
+  }
+  
