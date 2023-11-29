@@ -3,6 +3,7 @@
 
 ## how to run
     - make sure to have a mysql process up and running
+    - modify the mysql connection string in the .env file
     - npm install (install required packages)
     - npm run migrate (build myql schema)
     - npm start (start fastify server)
